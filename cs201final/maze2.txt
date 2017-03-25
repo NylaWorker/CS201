@@ -1,0 +1,6 @@
+5 5
+a0 b3 c0 d0 e0 
+f0 g3 h2 i1 j0 
+k0 l8 m0 n4 o0 
+p0 q8 r8 s4 t0 
+u0 v0 w0 x1 y0 
